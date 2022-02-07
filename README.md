@@ -1,5 +1,7 @@
 自定义tomcat
 
+应用程序demo1、demo2已经以子工程存在于工程中。
+
 tomat默认请求
 http://localhost:8080
 
